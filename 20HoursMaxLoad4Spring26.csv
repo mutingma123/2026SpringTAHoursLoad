@@ -1,7 +1,4 @@
-﻿Week,WeekStart,WeekEnd,Day,PlanStart,PlanEnd,ActualStart,ActualEnd,Project,WorkItem,MinutesSpent,MaxWeekTotalMinutes=60*20<=1200
-1,1/5/2026,1/9/2026,1/5/2026,14:00,15:00,14:00,16:00,TA,Check 2 TA courses content and create booking pages and update on annoucement page,120,485
-1,1/5/2026,1/9/2026,1/5/2026,18:00,18:05,18:00,18:05,DataDescriptor,Update MY comments for DataDescriptor paper about Table 1 % removal,5,
-1,1/5/2026,1/9/2026,1/6/2026,7:00,8:00,10:00,13:00,TA,Check materials and provide to instructor,180,
-1,1/5/2026,1/9/2026,1/6/2026,8:00,9:00,7:00,10:00,TA,Update release and due dates of each module of each course,180,
-1,1/5/2026,1/9/2026,1/6/2026,9:00,10:00,,,DataDescriptor,Delete Sum2-2-1-3 and combine Sum2-2-1-1 and Sum2-2-1-2,,
-1,1/5/2026,1/9/2026,1/6/2026,10:00,11:00,,,ITOR,Final-check updated content's correctness and referencing,,
+﻿Week,Day,ActualStart,ActualEnd,Course,WorkItem,MinutesSpent,MaxWeekTotalMinutes=60*20<=1200
+1,1/5/2026,14:00,16:00,"Please specify 524 or 525 here, you can also say both if it's combined activity.",Check 2 TA courses content and create booking pages and update on annoucement page,120,485
+1,1/6/2026,10:00,13:00,"Please specify 524 or 525 here, you can also say both if it's combined activity.",Check materials and provide to instructor,180,
+1,1/6/2026,7:00,10:00,"Please specify 524 or 525 here, you can also say both if it's combined activity.",Update release and due dates of each module of each course,180,
