@@ -1,36 +1,54 @@
 ﻿Week,Day,ActualStart,ActualEnd,Course,WorkItem,MinutesSpent,MaxWeekTotalMinutes=60*20<=1200
-1,1/5/2026,14:00,16:00,Both,Check 2 TA courses content and create booking pages and update on annoucement page,120,530
+1,1/5/2026,14:00,16:00,Both,Check 2 TA courses content and create booking pages and update on annoucement page,120,670
+1,1/5/2026,17:10,17:40,Scidata,Refactor Dictionary Transformation table structure for clarity,30,
 1,1/6/2026,10:00,13:00,Both,Check materials and provide to instructor,180,
 1,1/6/2026,7:00,10:00,Both,Update release and due dates of each module of each course,180,
 1,1/7/2026,7:30,7:50,524,Check and confirm the entered mid and final exam due dates,20,
 1,1/7/2026,10:30,11:00,524,Copy and paste past Discussion post M3 to current post,30,
-2,1/11/2026,20:00,20:20,Both,Check Introduction discussion posts of students in progress,20,160
+1,1/7/2026,16:30,17:10,Scidata,Attempt actionable steps for finalizing the manuscript,40,
+1,1/9/2026,13:30,14:40,Scidata,Organize past TODOs and review data descriptor templates,70,
+2,1/11/2026,20:00,20:20,Both,Check Introduction discussion posts of students in progress,20,290
 2,1/11/2026,20:20,20:30,524,Fix M3 HW instruction and add content back from last course and confirm the same solution,10,
+2,1/12/2026,14:30,15:30,Scidata,Enhance Data Records and Technical Validation sections with dataset structure and validation details,60,
 2,1/13/2026,7:00,7:10,Both,Check students' discussion posts progress,10,
+2,1/14/2026,15:00,16:10,Scidata,Reorder workflow for coming-in data and add TODOs for updating Data Records and Technical Validation,70,
 2,1/15/2026,7:00,7:30,Both,Check students' submisson progress and next module opening status,30,
 2,1/17/2026,14:00,15:30,524,Respond and grade all students' introduction discussion post,90,
-3,1/19/2026,13:50,14:00,525,Make calculator avaialble for all module quizzes,10,250
+3,1/19/2026,10:30,12:00,Scidata,Upload EVA count data and modularize EVACounter from streamlined main,90,510
+3,1/19/2026,13:50,14:00,525,Make calculator avaialble for all module quizzes,10,
+3,1/19/2026,14:10,15:40,Scidata,Implement EVACounter module with configuration and processing classes,90,
 3,1/19/2026,17:30,19:00,525,Grade all introduction posts,90,
+3,1/21/2026,9:30,10:50,Scidata,Enhance Logger and EVAProcessor and run EVA data processing pipeline,80,
 3,1/21/2026,11:30,12:00,524,Read HW1 Lean article and provide a grading rubric,30,
 3,1/21/2026,14:30,16:30,524,Grade all students' HW1 essays,120,
-4,1/26/2026,7:00,7:30,525,Check on students' progress and auto-graded scores,30,180
+4,1/26/2026,7:00,7:30,525,Check on students' progress and auto-graded scores,30,240
 4,1/26/2026,7:30,8:30,524,Add M4 discussion post and correct M4 and M5's HW,60,
 4,1/26/2026,13:00,14:00,524,Add back lecture xlsx notes to M3 and M4,60,
 4,1/27/2026,11:30,12:00,524,Answer student's question on HW3,30,
-5,2/1/2026,13:00,14:30,524,Grade all students' HW2 and discussion posts,90,300
+4,1/27/2026,13:00,14:00,Scidata,Compare input and output discrepancy of zipcode and county level EVA count data,60,
+5,2/1/2026,10:00,13:00,Scidata,Collect 2025 EVA data and build Stepwise regression module with data loading,180,1090
+5,2/1/2026,13:00,14:30,524,Grade all students' HW2 and discussion posts,90,
 5,2/1/2026,14:30,15:00,525,Grade all students' discussion post,30,
+5,2/1/2026,15:00,17:00,Scidata,Implement stepwise regression with multi-threading and finish feature selection,120,
+5,2/3/2026,11:30,12:20,Scidata,Enhance stepwise analysis and add filtered input building for thresholds,50,
+5,2/3/2026,16:00,20:30,Scidata,Implement parallel evaluation and execute all stepwise selections with results,270,
 5,2/4/2026,8:00,8:30,524,Check and confirm HW5 is posted,30,
+5,2/4/2026,9:00,9:40,Scidata,Collect all vehicle-count-based selection results,40,
+5,2/4/2026,10:30,12:00,Scidata,Refine input filtering logic and validate filtered zipcode counts,90,
+5,2/4/2026,13:40,14:20,Scidata,Re-organize and archive past old selected data,40,
 5,2/5/2026,18:00,20:00,524,Prepare answers for HW4 from a student,120,
 5,2/6/2026,12:00,12:30,524,Office hour for the student,30,
-6,2/8/2026,19:00,19:20,524,Check and confirm HW6 is posted,20,80
+6,2/8/2026,19:00,19:20,524,Check and confirm HW6 is posted,20,170
+6,2/11/2026,14:30,16:00,Scidata,Add DictionaryPackager module to process and save dictionaries,90,
 6,2/11/2026,17:15,18:15,524,Collect and check all students' answers for HW3,60,
-7,2/15/2026,11:00,14:00,524,Grade all students' HW3 with feedback,180,930
-7,2/15/2026,15:00,16:00,Scidata,Get ACS data using selected variables,60,
-7,2/16/2026,7:30,8:30,Scidata,Get EVA data using the latest data,60,
+7,2/15/2026,11:00,14:00,524,Grade all students' HW3 with feedback,180,1000
+7,2/15/2026,15:00,16:20,Scidata,Swap dictionary columns and process selected ACS variables with strings,80,
+7,2/16/2026,7:30,8:40,Scidata,Add state data processing functionality to EVACounter module,70,
 7,2/16/2026,15:00,15:30,524,Fill missed Module 7 HW and discussion post,30,
 7,2/17/2026,3:00,6:00,524,Familiarize M5 lecture and prepare answers for questions on HW5,180,
 7,2/17/2026,12:30,13:00,524,Hold an office hour,30,
 7,2/17/2026,16:00,16:30,524,Answer student's question on HW5,30,
+7,2/18/2026,13:20,14:00,Scidata,Collect and integrate Mesut's edits on manuscript,40,
 7,2/21/2026,11:00,14:00,524,Grade HW4 for all students,180,
 7,2/21/2026,14:00,17:00,524,Grade HW5 for all students,180,
 8,2/23/2026,6:20,6:50,Scidata,Check git repo status and reply to request on data update,30,660
